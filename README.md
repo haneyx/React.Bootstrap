@@ -1,4 +1,5 @@
 # ReactJS
 ## Demostración: CSS como objeto, Bootstrap, ArrowFunction & Map
 
-#### visible desde https://haneyx.github.io/react1/
+#### Funcionando en GIT: https://haneyx.github.io/react1/
+#### Como tambien en HEROKU: https://protected-brushlands-13888.herokuapp.com/
