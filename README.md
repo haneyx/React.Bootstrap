@@ -1,7 +1,6 @@
-#### React.Bootstrap
-###### Demostración: CSS como objeto, Bootstrap, ArrowFunction & Map
+##### Demostración: CSS como objeto, Bootstrap, ArrowFunction & Map
 
-######### Parte del codigo en la etapa: Creacion de CSS y Map
+###### Parte del codigo en la etapa: Creacion de CSS y Map
 ```javascript
 export class App extends Component{
 
@@ -23,7 +22,7 @@ export class App extends Component{
   }
 ```
 
-#### Ejecutable desde
+##### Ejecutable desde
 <ul>
   <li>https://haneyx.github.io/React.Bootstrap/</li>
   <li>https://protected-brushlands-13888.herokuapp.com/</li>
